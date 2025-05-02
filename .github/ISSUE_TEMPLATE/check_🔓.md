@@ -1,9 +1,9 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+name: "Check_\U0001F513"
+about: 'Suggest an dea* for this repositories or repository '
+title: Aeiou
+labels: bug
+assignees: tr4200812
 
 ---
 
