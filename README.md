@@ -1,3 +1,4 @@
+|<<<<<<< d8f79c8
 
 [Welcome to your organization's]
 
@@ -10,3 +11,13 @@
 This code repository is designed to demonstrate the best GitHub has to offer with the least amount of noise.
 
 `index.html` file (so it can render a web page); GitHub Actions workflows, and a CSS stylesheet dependency.
+|=======
+ [✨️](https://github.com/i3lacksugra555/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+
+![Proof HTML](https://github.com/i3lacksugra555/demo-repository/actions/workflows/proof-html.yml/badge.svg)
+
+### Welcome to your organization's demo respository
+This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+
+The repo and the author `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+|>>>>>>> main

@@ -16,4 +16,4 @@ jobs:
       with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           assignees: tr4200812
-          numOfAssignee: 1
+          numOfAssignee: update 
