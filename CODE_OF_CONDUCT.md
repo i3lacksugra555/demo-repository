@@ -1,5 +1,5 @@
 # Demo Repository Code of Conduct
-
+**[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/i3lacksugra555/demo-repository?quickstart=utf8;utf-8)
 Like the technical community as a whole, the Demo Repository team and community is made up of a mixture of professionals and volunteers from all over the world, working on every aspect of the mission - including mentorship, teaching, and connecting people.
 
 Diversity is one of our huge strengths, but it can also lead to communication issues and unhappiness. To that end, we have a few ground rules that we ask people to adhere to. This code applies equally to founders, mentors and those seeking help and guidance.
