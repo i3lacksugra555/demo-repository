@@ -1,5 +1,6 @@
-(https://github.com/codespaces/badge.svg)github.com|<<<<<<<[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/i3lacksugra555/demo-repository?exit-0
-start=utf-8;utf8)
+
+[🤬](https://github.com/codespaces/badge.svg)
+github.com|<<<<<<<[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/i3lacksugra555/demo-repository?exit-0start=utf-8;utf8)
 
 [Welcome to your organization's]
 
